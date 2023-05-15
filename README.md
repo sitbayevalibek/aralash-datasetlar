@@ -1,2 +1,3 @@
 # aralash-datasetlar
-Bu reopsda har xil turdagi datasetlar joylanadi
+Bu reposda har xil turdagi datasetlar joylanadi
+This repository hosts various types of datasets
